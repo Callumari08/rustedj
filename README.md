@@ -8,5 +8,5 @@ A CLI journal written in rust that encrypts its entries' data locally.
 
 # Dependencies
 
-- chrono 0.4.29
-- clap 4.4.2
+- chrono: 0.4.29
+- clap: 4.4.2
